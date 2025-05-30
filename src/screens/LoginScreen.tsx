@@ -27,14 +27,14 @@ const LoginScreen = () => {
 
   const handleLogin = () => {
     // Basit demo kontrolü
-    if (email === "test@gmail.com" && password === "123456") {
+    if (email === "deneme@gmail.com" && password === "1234") {
       Alert.alert("Success", "Giriş başarılı!");
     } else {
       Alert.alert("Hata", "E-posta veya şifre hatalı!");
     }
   };
 
-  
+
 
   return (
     <View style={styles.container}>
