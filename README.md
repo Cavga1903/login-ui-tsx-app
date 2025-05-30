@@ -10,9 +10,9 @@ This is a clean and responsive login/register interface built with React Native 
 - Fully responsive layout
 
 ## Demo Credentials
-- Email: deneme@gmail.com
-- Password: 1234
 
+- E-posta: `deneme@gmail.com`
+- Şifre: `1234`
 
 # React Native Login / Register Uygulaması (TypeScript - Expo)
 
